@@ -1,6 +1,6 @@
 # Digit-Recognizer
 
-Using the **Keras** and **Tensorflow** libraries, I have created a neural network that can accurately classify images of digits. Using the **MNIST Digits dataset**, I created my training and test set (can be located under `Data/Kaggle MNIST Digits/`). 
+Using the **Keras** and **Tensorflow** libraries, I have created a neural network that can accurately classify images of digits. Using the **MNIST Digits dataset**, I created my training and test set. 
 
 Documentation of the entire project is viewable through the uploaded **`DigitRecognizer.ipynb`** file.
 
